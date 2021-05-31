@@ -146,4 +146,8 @@ public class Controlador {
         return operaciones.getConvocatoriasUser(key);
     }
 
+    public boolean Concurrencia(){
+        return true;
+    }
+
 }
